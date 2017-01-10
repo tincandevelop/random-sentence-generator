@@ -1,6 +1,6 @@
 # random-sentence-generator
 The random sentence generator generates a random
-sentence using standard English grammar rules.
+sentence based on predefined dictionaries of diffrent word types (e.g. nouns, verb & adjectives).
 
 The generator is written in C++, it randomly picks words
  from a predefined dictionary of pronouns, name, adverbs,
@@ -14,8 +14,7 @@ The generator is written in C++, it randomly picks words
 * Adverbs list from [ASC, Missouri Baptist University](https://www.mobap.edu/wp-content/uploads/2013/01/list_of_adverbs.pdf)
 * Adjectives list from [enchantedlearning.com](http://www.enchantedlearning.com/wordlist/adjectives.shtml)
 
-## Licence "I don't care licence"
+##Liscence
 
-Do whatever you like with the code just don't use
-100% of the code and claim it as your (Yes that does mean that you can use 99.9% of it and claim it yours).
+Mit liscence
 
